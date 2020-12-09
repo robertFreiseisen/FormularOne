@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="FormularOne.Contracts.Persistence.IDriver">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQCAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persistence\IDriver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FormularOne.Contracts.Persistence.IDriverResult">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAgBAAAAAAAAAAAAAAAAAQAMAIAAIAAQA=</HashCode>
+      <FileName>Persistence\IDriverResult.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FormularOne.Contracts.Persistence.IRace">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persistence\IRace.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FormularOne.Contracts.Persistence.ITeam">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persistence\ITeam.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FormularOne.Contracts.IIdentifiable">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IIdentifiable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
